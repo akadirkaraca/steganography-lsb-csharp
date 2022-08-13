@@ -1,0 +1,29 @@
+C:\Users\Akadir\source\repos\bgt_lsb\bgt_lsb\bin\Debug\bgt_lsb.exe.config
+C:\Users\Akadir\source\repos\bgt_lsb\bgt_lsb\bin\Debug\bgt_lsb.exe
+C:\Users\Akadir\source\repos\bgt_lsb\bgt_lsb\bin\Debug\bgt_lsb.pdb
+C:\Users\Akadir\source\repos\bgt_lsb\bgt_lsb\obj\Debug\bgt_lsb.Form1.resources
+C:\Users\Akadir\source\repos\bgt_lsb\bgt_lsb\obj\Debug\bgt_lsb.Properties.Resources.resources
+C:\Users\Akadir\source\repos\bgt_lsb\bgt_lsb\obj\Debug\bgt_lsb.csproj.GenerateResource.cache
+C:\Users\Akadir\source\repos\bgt_lsb\bgt_lsb\obj\Debug\bgt_lsb.csproj.CoreCompileInputs.cache
+C:\Users\Akadir\source\repos\bgt_lsb\bgt_lsb\obj\Debug\bgt_lsb.exe
+C:\Users\Akadir\source\repos\bgt_lsb\bgt_lsb\obj\Debug\bgt_lsb.pdb
+C:\Users\Akadir\source\repos\bgt_lsb - test\bgt_lsb\bin\Debug\bgt_lsb.exe.config
+C:\Users\Akadir\source\repos\bgt_lsb - test\bgt_lsb\bin\Debug\bgt_lsb.exe
+C:\Users\Akadir\source\repos\bgt_lsb - test\bgt_lsb\bin\Debug\bgt_lsb.pdb
+C:\Users\Akadir\source\repos\bgt_lsb - test\bgt_lsb\obj\Debug\bgt_lsb.csprojResolveAssemblyReference.cache
+C:\Users\Akadir\source\repos\bgt_lsb - test\bgt_lsb\obj\Debug\bgt_lsb.Form1.resources
+C:\Users\Akadir\source\repos\bgt_lsb - test\bgt_lsb\obj\Debug\bgt_lsb.Properties.Resources.resources
+C:\Users\Akadir\source\repos\bgt_lsb - test\bgt_lsb\obj\Debug\bgt_lsb.csproj.GenerateResource.cache
+C:\Users\Akadir\source\repos\bgt_lsb - test\bgt_lsb\obj\Debug\bgt_lsb.csproj.CoreCompileInputs.cache
+C:\Users\Akadir\source\repos\bgt_lsb - test\bgt_lsb\obj\Debug\bgt_lsb.exe
+C:\Users\Akadir\source\repos\bgt_lsb - test\bgt_lsb\obj\Debug\bgt_lsb.pdb
+D:\Users\Akadir\Desktop\Robotic\BGT\Source Code\bgt_lsb\bgt_lsb\bin\Debug\bgt_lsb.exe.config
+D:\Users\Akadir\Desktop\Robotic\BGT\Source Code\bgt_lsb\bgt_lsb\bin\Debug\bgt_lsb.exe
+D:\Users\Akadir\Desktop\Robotic\BGT\Source Code\bgt_lsb\bgt_lsb\bin\Debug\bgt_lsb.pdb
+D:\Users\Akadir\Desktop\Robotic\BGT\Source Code\bgt_lsb\bgt_lsb\obj\Debug\bgt_lsb.csprojAssemblyReference.cache
+D:\Users\Akadir\Desktop\Robotic\BGT\Source Code\bgt_lsb\bgt_lsb\obj\Debug\bgt_lsb.Form1.resources
+D:\Users\Akadir\Desktop\Robotic\BGT\Source Code\bgt_lsb\bgt_lsb\obj\Debug\bgt_lsb.Properties.Resources.resources
+D:\Users\Akadir\Desktop\Robotic\BGT\Source Code\bgt_lsb\bgt_lsb\obj\Debug\bgt_lsb.csproj.GenerateResource.cache
+D:\Users\Akadir\Desktop\Robotic\BGT\Source Code\bgt_lsb\bgt_lsb\obj\Debug\bgt_lsb.csproj.CoreCompileInputs.cache
+D:\Users\Akadir\Desktop\Robotic\BGT\Source Code\bgt_lsb\bgt_lsb\obj\Debug\bgt_lsb.exe
+D:\Users\Akadir\Desktop\Robotic\BGT\Source Code\bgt_lsb\bgt_lsb\obj\Debug\bgt_lsb.pdb
