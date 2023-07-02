@@ -67,9 +67,9 @@ Mesela, gizleme işleminde “a” karakterini gizlerken kullanılan pikselin, R
 
 Karakterin değeri = (1\*8^0) + (0\*8^1) + (1\*8^2)
 
-`                                `= 1 + 0 + 64
+`                `= 1 + 0 + 64
 
-`                                `= 65 olarak elde edilir.
+`                `= 65 olarak elde edilir.
 
 Bu 65 değeri ascii tablosunda “a” nın değerini karşılamaktadır. Burada gerekli char dönüştürme işlemini yaparak, çözümlemede şu ana kadar bulunan metnin sonuna elde edilen bu karakter eklenerek işlemine devam edilir.
 
