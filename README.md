@@ -2,7 +2,7 @@
 
 Program, herhangi bir resmin piksellerine ait R, G, B renk kanallarını kullanarak, kullanıcı tarafından tanımlanan metni yine kullanıcı tanımlı olan bit sayısını kullanarak her bir pikselin renk kanallarının en düşük değerli belirli sayıda ki bitlerine (LSB- Least Signiture Bit) gizleyerek, metnin gizlenmiş olduğu yeni resmi döndürür ve gizlenen yazının doğru bit sayısı girilerek tekrar elde edilmesini sağlar.
 
-![](md.img/001.jpeg)Gizleme işlemleri yaparken Windows form üzerinde ilk olarak örtü (cover) olarak kullanacağımız resim seçilir. Sonra gizlenmesi istenilen metin ile renk kanalları üzerinde değişiklik yapılması istenilen en düşük değerlikli bit sayısı girilir ve işlemi gerçekleştirmek için gizle butonu seçilerek gerekli gizleme işlemlerinin yapılması sağlanır. Gizleme işlemi yapıldıktan sonra ise örtü resmin yanına değişiklik yapılan resim döndürülür. Döndürülen bu stego resim çözümleme işlemi için kaydedilebilir.
+![](Presentation/md.img/001.jpeg)Gizleme işlemleri yaparken Windows form üzerinde ilk olarak örtü (cover) olarak kullanacağımız resim seçilir. Sonra gizlenmesi istenilen metin ile renk kanalları üzerinde değişiklik yapılması istenilen en düşük değerlikli bit sayısı girilir ve işlemi gerçekleştirmek için gizle butonu seçilerek gerekli gizleme işlemlerinin yapılması sağlanır. Gizleme işlemi yapıldıktan sonra ise örtü resmin yanına değişiklik yapılan resim döndürülür. Döndürülen bu stego resim çözümleme işlemi için kaydedilebilir.
 
 Resim 1 – Gizleme (Encoding) İşlemi
 
