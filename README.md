@@ -8,7 +8,7 @@ Resim 1 – Gizleme (Encoding) İşlemi
 
 Çözümleme işlemi için ise içine metin gizlenen resim seçilir. Sonra metni gizleyen kullanıcı tarafından en düşük değerlikli kaç bit kullanıldıysa bu değer girilerek çözümleme işlemi yapılarak, gizlenmiş olan metin elde edilir.
 
-![](md.img/002.jpeg)
+![](Presentation/md.img/002.jpeg)
 
 Resim 2 – Çözümleme (Decoding) İşlemi
 
@@ -39,15 +39,15 @@ Mesela “a” karakteri gizlenecek ve bunu son 3 biti değiştirerek yapacağı
 
 R(0000 0000), G(0000 0000), B(0000 0000) olarak kabul edelim. Karakterin ascii değeri = 65
 
-![](md.img/003.png)R = R + (65 % 2<sup>3</sup>)                 R (0000 0001)
+![](Presentation/md.img/003.png)R = R + (65 % 2<sup>3</sup>)                 R (0000 0001)
 
 Karakterin ascii değeri / 2<sup>3</sup> = 8
 
-![](md.img/003.png)G = G + (8 % 2<sup>3</sup>)                 G (0000 0000)
+![](Presentation/md.img/003.png)G = G + (8 % 2<sup>3</sup>)                 G (0000 0000)
 
 Karakterin ascii değeri / 2<sup>3</sup> = 1
 
-![](md.img/003.png)B = B + (1 % 2<sup>3</sup>)                 B (0000 0001) olur.
+![](Presentation/md.img/003.png)B = B + (1 % 2<sup>3</sup>)                 B (0000 0001) olur.
 
 Böylece bu bitlere “a” karakterinin ascii değeri olan 65 sayısı gizlenmiş olur.
 
